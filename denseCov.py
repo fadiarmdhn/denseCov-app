@@ -55,7 +55,7 @@ with classification:
 
 @st.cache(allow_output_mutation=True)
 def load_model():
-  model = tf.keras.models.load_model('../Model/FinalModel_DenseCov.hd5')
+  model = tf.keras.models.load_model('FinalModel_DenseCov.hd5')
   return model
 
 with st.spinner('Loading model into memory...'):
