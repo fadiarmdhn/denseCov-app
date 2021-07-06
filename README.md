@@ -11,3 +11,6 @@ The world is being hit by the COVID-19 pandemic which can cause pneumonia. Due t
 * Model evaluation
 
 The model that has been built has a fairly good performance in identifying patients with pneumonia COVID-19 and the healthy ones with **accuracy 93,41%**, **precision 94,19%**, **sensitivity (recall) 93,10%**, and **specificity 93,75%**.
+
+*** *There will be an update with the README soon!
+*** *Anyway since I can't push the **.hd5** file, if you need it you can contact me thru email: fadiaaar@gmail.com
